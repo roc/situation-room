@@ -1,0 +1,10 @@
+export MEETING_ROOM_CLIENT_ID="999@developer.googleservice.com"
+
+export MEETING_ROOM_API_KEY="LongSecureKey"
+
+export MEETING_ROOM_CALENDARS="101,my_meeting_room_101_987429847key@resource.calendar.google.com;"
+
+export PORT=9000
+
+export MEETING_ROOM_AUTH_USER=$USER
+export MEETING_ROOM_AUTH_PASS=$PASS
